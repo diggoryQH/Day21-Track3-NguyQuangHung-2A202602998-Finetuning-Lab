@@ -9,7 +9,7 @@
 ## 🔗 Liên kết tài nguyên (Option B):
 
 1. **GitHub Repository**:
-   - URL: [https://github.com/diggoryQH/Day21-Track3-Finetuning-Lab](https://github.com/diggoryQH/Day21-Track3-Finetuning-Lab)
+   - URL: [https://github.com/diggoryQH/Day21-Track3-NguyQuangHung-2A202602998-Finetuning-Lab](https://github.com/diggoryQH/Day21-Track3-NguyQuangHung-2A202602998-Finetuning-Lab)
    - Chứa toàn bộ source code, notebooks, scripts, tests và bộ dữ liệu miền riêng.
 
 2. **Hugging Face Hub Adapter (Bonus B5)**:

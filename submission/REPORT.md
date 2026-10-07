@@ -2,7 +2,7 @@
 
 **Họ tên**: Ngụy Quang Hùng  **MSSV**: 2A202602998  **Ngày**: 2026-10-07  
 **Tier**: `T4`  **Base model**: `unsloth/Qwen3.5-4B`  **GPU thực tế**: `Tesla T4 16GB (14.6 GB khả dụng)`  
-**GitHub Repo**: [https://github.com/diggoryQH/Day21-Track3-Finetuning-Lab](https://github.com/diggoryQH/Day21-Track3-Finetuning-Lab)  
+**GitHub Repo**: [https://github.com/diggoryQH/Day21-Track3-NguyQuangHung-2A202602998-Finetuning-Lab](https://github.com/diggoryQH/Day21-Track3-NguyQuangHung-2A202602998-Finetuning-Lab)  
 **HuggingFace Adapter**: [https://huggingface.co/hung2k4love/lab21-qwen35-triage-vi](https://huggingface.co/hung2k4love/lab21-qwen35-triage-vi)
 
 > Mọi con số dưới đây được đối chiếu và khớp 100% với các file trong thư mục `results/`.
